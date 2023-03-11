@@ -15,3 +15,4 @@ public static void hello(String name, int age) {
         ArgMethod.hello(name, age);
     }
 }
+
