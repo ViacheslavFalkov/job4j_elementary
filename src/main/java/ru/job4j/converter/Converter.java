@@ -23,6 +23,7 @@ public class Converter {
         expected = 2.5;
         out = Converter.rubleToDollar(in);
         passed = expected == out;
-        System.out.println("150 rubles are 2. Test result : " + passed);
+        System.out.println("150 rubles are 2.5 Test result : " + passed);
+
     }
 }
