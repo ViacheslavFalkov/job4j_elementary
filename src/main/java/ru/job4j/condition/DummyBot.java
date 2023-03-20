@@ -6,7 +6,6 @@ public class DummyBot {
         if ("Hi, Bot.".equals(question)) {
             rsl = "Hi, SmartAss.";
         } else if ("Bye.".equals(question)) {
-
             rsl = "See you later.";
         }
         return rsl;
